@@ -1,0 +1,17 @@
+﻿  test.cpp
+d:\cpp\template\template\test.cpp(104): warning C4244: “return”: 从“A1”转换到“A”，可能丢失数据
+          with
+          [
+              A1=double
+          ]
+          and
+          [
+              A=int
+          ]
+  d:\cpp\template\template\test.cpp(135): note: 参见对正在编译的函数 模板 实例化“A Add<int,double>(A,A1)”的引用
+          with
+          [
+              A=int,
+              A1=double
+          ]
+  template.vcxproj -> D:\cpp\template\Debug\template.exe
