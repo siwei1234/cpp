@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\generate\generate\test.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  generate.vcxproj -> D:\cpp\generate\Debug\generate.exe
