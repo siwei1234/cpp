@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findDuplicate", "findDuplicate\findDuplicate.vcxproj", "{F69848B3-658A-4610-BCBE-A8DD4E847579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Debug|x64.ActiveCfg = Debug|x64
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Debug|x64.Build.0 = Debug|x64
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Debug|x86.ActiveCfg = Debug|Win32
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Debug|x86.Build.0 = Debug|Win32
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Release|x64.ActiveCfg = Release|x64
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Release|x64.Build.0 = Release|x64
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Release|x86.ActiveCfg = Release|Win32
+		{F69848B3-658A-4610-BCBE-A8DD4E847579}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AF75D5-EE1C-4403-8847-DF951B83EC56}
+	EndGlobalSection
+EndGlobal
