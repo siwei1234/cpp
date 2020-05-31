@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\findkthlargest\findkthlargest\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  findKthLargest.vcxproj -> D:\cpp\findKthLargest\Debug\findKthLargest.exe
