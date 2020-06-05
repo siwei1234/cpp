@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\permutation\permutation\test.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  permutation.vcxproj -> D:\cpp\permutation\Debug\permutation.exe
