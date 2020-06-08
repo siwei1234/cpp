@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\equationspossible\equationspossible\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\equationspossible\equationspossible\test.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  equationsPossible.vcxproj -> D:\cpp\equationsPossible\Debug\equationsPossible.exe
