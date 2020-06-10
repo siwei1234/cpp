@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\longestpalindrome\longestpalindrome\test.cpp(26): warning C4018: “>”: 有符号/无符号不匹配
+  longestPalindrome.vcxproj -> D:\cpp\longestPalindrome\Debug\longestPalindrome.exe
