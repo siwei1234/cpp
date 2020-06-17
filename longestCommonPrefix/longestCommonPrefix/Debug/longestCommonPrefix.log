@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\longestcommonprefix\longestcommonprefix\test.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  longestCommonPrefix.vcxproj -> D:\cpp\longestCommonPrefix\Debug\longestCommonPrefix.exe
