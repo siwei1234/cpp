@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\maxscoresightseeingpair\maxscoresightseeingpair\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  maxScoreSightseeingPair.vcxproj -> D:\cpp\maxScoreSightseeingPair\Debug\maxScoreSightseeingPair.exe
