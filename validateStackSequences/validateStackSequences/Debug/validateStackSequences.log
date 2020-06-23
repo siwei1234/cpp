@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\validatestacksequences\validatestacksequences\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  validateStackSequences.vcxproj -> D:\cpp\validateStackSequences\Debug\validateStackSequences.exe
