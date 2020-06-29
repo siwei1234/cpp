@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\minsubarraylen\minsubarraylen\test.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  minSubArrayLen.vcxproj -> D:\cpp\minSubArrayLen\Debug\minSubArrayLen.exe
