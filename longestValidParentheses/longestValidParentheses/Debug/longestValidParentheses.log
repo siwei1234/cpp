@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\longestvalidparentheses\longestvalidparentheses\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  longestValidParentheses.vcxproj -> D:\cpp\longestValidParentheses\Debug\longestValidParentheses.exe
