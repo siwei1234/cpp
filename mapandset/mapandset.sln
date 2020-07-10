@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mapandset", "mapandset\mapandset.vcxproj", "{8C862126-393F-4B96-BB93-DF94A129FAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Debug|x64.ActiveCfg = Debug|x64
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Debug|x64.Build.0 = Debug|x64
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Debug|x86.Build.0 = Debug|Win32
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Release|x64.ActiveCfg = Release|x64
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Release|x64.Build.0 = Release|x64
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Release|x86.ActiveCfg = Release|Win32
+		{8C862126-393F-4B96-BB93-DF94A129FAAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB597AF-1AF4-49B9-B559-7573D1544746}
+	EndGlobalSection
+EndGlobal
