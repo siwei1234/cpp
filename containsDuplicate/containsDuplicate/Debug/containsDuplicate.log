@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\containsduplicate\containsduplicate\test.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  containsDuplicate.vcxproj -> D:\cpp\containsDuplicate\Debug\containsDuplicate.exe
