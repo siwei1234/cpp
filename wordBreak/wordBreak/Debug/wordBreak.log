@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\wordbreak\wordbreak\test.cpp(17): warning C4018: “<=”: 有符号/无符号不匹配
+  wordBreak.vcxproj -> D:\cpp\wordBreak\Debug\wordBreak.exe
