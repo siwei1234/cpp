@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\maxprofit1\maxprofit1\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  maxProfit1.vcxproj -> D:\cpp\maxProfit1\Debug\maxProfit1.exe
