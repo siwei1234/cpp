@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\getleastnumbers\getleastnumbers\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  getLeastNumbers.vcxproj -> D:\cpp\getLeastNumbers\Debug\getLeastNumbers.exe
