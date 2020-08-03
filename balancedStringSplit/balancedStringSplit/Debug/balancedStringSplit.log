@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\balancedstringsplit\balancedstringsplit\test.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  balancedStringSplit.vcxproj -> D:\cpp\balancedStringSplit\Debug\balancedStringSplit.exe
