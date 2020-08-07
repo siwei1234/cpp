@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\findcirclenum\findcirclenum\test.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\findcirclenum\findcirclenum\test.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+  findCircleNum.vcxproj -> D:\cpp\findCircleNum\Debug\findCircleNum.exe
