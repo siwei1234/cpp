@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\ladderlength\ladderlength\test.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  ladderLength.vcxproj -> D:\cpp\ladderLength\Debug\ladderLength.exe
