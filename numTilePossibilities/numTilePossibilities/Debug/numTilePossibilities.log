@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\numtilepossibilities\numtilepossibilities\test.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  numTilePossibilities.vcxproj -> D:\cpp\numTilePossibilities\Debug\numTilePossibilities.exe
