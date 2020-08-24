@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\longestword\longestword\test.cpp(34): warning C4018: “<=”: 有符号/无符号不匹配
+  longestWord.vcxproj -> D:\cpp\longestWord\Debug\longestWord.exe
