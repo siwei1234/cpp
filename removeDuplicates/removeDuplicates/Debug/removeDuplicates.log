@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\removeduplicates\removeduplicates\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  removeDuplicates.vcxproj -> D:\cpp\removeDuplicates\Debug\removeDuplicates.exe
