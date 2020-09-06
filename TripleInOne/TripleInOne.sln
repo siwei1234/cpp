@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TripleInOne", "TripleInOne\TripleInOne.vcxproj", "{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Debug|x64.ActiveCfg = Debug|x64
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Debug|x64.Build.0 = Debug|x64
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Debug|x86.Build.0 = Debug|Win32
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Release|x64.ActiveCfg = Release|x64
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Release|x64.Build.0 = Release|x64
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Release|x86.ActiveCfg = Release|Win32
+		{2EB690B1-8E42-4CB6-B4A9-128C5721A0C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E867638-FB11-4BF1-988A-96FE192AF5A5}
+	EndGlobalSection
+EndGlobal
