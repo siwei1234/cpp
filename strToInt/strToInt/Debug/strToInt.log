@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\strtoint\strtoint\test.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\strtoint\strtoint\test.cpp(31): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  strToInt.vcxproj -> D:\cpp\strToInt\Debug\strToInt.exe
