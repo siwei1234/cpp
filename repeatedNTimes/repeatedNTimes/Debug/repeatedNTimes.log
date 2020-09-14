@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\repeatedntimes\repeatedntimes\test.cpp(19): warning C4018: “>=”: 有符号/无符号不匹配
+  repeatedNTimes.vcxproj -> D:\cpp\repeatedNTimes\Debug\repeatedNTimes.exe
