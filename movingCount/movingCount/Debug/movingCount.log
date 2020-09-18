@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\movingcount\movingcount\test.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  movingCount.vcxproj -> D:\cpp\movingCount\Debug\movingCount.exe
