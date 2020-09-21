@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\convertbst\convertbst\test.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+  convertBST.vcxproj -> D:\cpp\convertBST\Debug\convertBST.exe
