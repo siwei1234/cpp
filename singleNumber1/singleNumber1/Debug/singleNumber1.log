@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\singlenumber1\singlenumber1\test.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\singlenumber1\singlenumber1\test.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  singleNumber1.vcxproj -> D:\cpp\singleNumber1\Debug\singleNumber1.exe
