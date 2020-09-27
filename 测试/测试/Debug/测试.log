@@ -1,5 +1,2 @@
 ﻿  test.cpp
-d:\cpp\测试\测试\test.cpp(4018): warning C4018: “<”: 有符号/无符号不匹配
-d:\cpp\测试\测试\test.cpp(4032): warning C4018: “<”: 有符号/无符号不匹配
-d:\cpp\测试\测试\test.cpp(4040): warning C4018: “<”: 有符号/无符号不匹配
   测试.vcxproj -> D:\cpp\测试\Debug\测试.exe

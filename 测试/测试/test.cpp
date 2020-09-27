@@ -4006,51 +4006,112 @@ using namespace std;
 //}
 
 
+//#include<iostream>
+//#include<vector>
+//using namespace std;
+//
+//
+//struct soution
+//{
+//	bool issort(vector<int>& nums)
+//	{
+//		for (int i = 0; i < nums.size() - 1; i++)
+//		{
+//			if (nums[i] > nums[i + 1])
+//				return true;
+//		}
+//		return false;
+//
+//	}
+//	int func(vector<int>& nums)
+//	{
+//		int ret = 0;
+//		while (issort(nums))
+//		{
+//			int max = 0;
+//			for (int i = 1; i < nums.size() - ret; i++)
+//			{
+//				if (nums[i] > nums[max])
+//				{
+//					max = i;
+//				}
+//			}
+//			int tmp = nums[max];
+//			for (int i = max; i < nums.size() - ret - 1; i++)
+//			{
+//				nums[i] = nums[i + 1];
+//			}
+//			nums[nums.size() - ret - 1] = tmp;
+//			ret++;
+//		}
+//		return ret;
+//	}
+//};
+//
+//int main()
+//{
+//	vector<int> v{ 1,2,3,4,5,9,8 };
+//	cout << soution().func(v) << endl;
+//	return 0;
+//}
+
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
 
 
-struct soution
-{
-	bool issort(vector<int>& nums)
-	{
-		for (int i = 0; i < nums.size() - 1; i++)
-		{
-			if (nums[i] > nums[i + 1])
-				return true;
-		}
-		return false;
-
-	}
-	int func(vector<int>& nums)
-	{
-		int ret = 0;
-		while (issort(nums))
-		{
-			int max = 0;
-			for (int i = 1; i < nums.size() - ret; i++)
-			{
-				if (nums[i] > nums[max])
-				{
-					max = i;
-				}
-			}
-			int tmp = nums[max];
-			for (int i = max; i < nums.size() - ret - 1; i++)
-			{
-				nums[i] = nums[i + 1];
-			}
-			nums[nums.size() - ret - 1] = tmp;
-			ret++;
-		}
-		return ret;
-	}
-};
-
 int main()
 {
-	vector<int> v{ 1,2,3,4,5,9,8 };
-	cout << soution().func(v) << endl;
+	int c = 1;
+	while (c--)
+	{
+		int n = 7, m = 2;
+		vector<vector<int>> vv(n, vector<int>(n, 0));
+		int l = 0, r = n - 1;
+		int tmp = 1;
+		bool flag = true;
+		while (l <= r)
+		{
+			if (flag)
+			{
+				for (int i = l; i <= r; i++)
+					vv[l][i] = tmp++;
+				l++;
+				for (int i = l; i <= r; i++)
+					vv[i][r] = tmp++;
+				r--;
+				for (int i = r; i >= l - 1; i--)
+					vv[n - l][i] = tmp++;
+				for (int i = r; i >= l; i--)
+					vv[i][l - 1] = tmp++;
+				flag = false;
+			}
+			else
+			{
+				for (int i = l; i <= r; i++)
+					vv[i][l] = tmp++;
+				l++;
+				for (int i = l; i <= r; i++)
+					vv[l - 1][i] = tmp++;
+				r--;
+				for (int i = r; i >= l - 1; i--)
+					vv[i][n - l] = tmp++;
+				for (int i = r; i >= l; i--)
+					vv[r + 1][i] = tmp++;
+				flag = true;
+
+			}
+		}
+		for (int i = 0; i < n; i++)
+		{
+			for (int j = 0; j < n - 1; j++)
+				cout << vv[i][j] << " ";
+			cout << vv[i][n - 1] << endl;
+		}
+	}
+
+
 	return 0;
 }
