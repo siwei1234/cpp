@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\majorityelement\majorityelement\test.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\majorityelement\majorityelement\test.cpp(14): warning C4018: “>”: 有符号/无符号不匹配
+  majorityElement.vcxproj -> D:\cpp\majorityElement\Debug\majorityElement.exe
