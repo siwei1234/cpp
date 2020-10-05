@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\addtoarrayform\addtoarrayform\test.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  addToArrayForm.vcxproj -> D:\cpp\addToArrayForm\Debug\addToArrayForm.exe
