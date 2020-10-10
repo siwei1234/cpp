@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\modifystring\modifystring\test.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  modifyString.vcxproj -> D:\cpp\modifyString\Debug\modifyString.exe
