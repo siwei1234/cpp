@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\isisomorphic\isisomorphic\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  isIsomorphic.vcxproj -> D:\cpp\isIsomorphic\Debug\isIsomorphic.exe
