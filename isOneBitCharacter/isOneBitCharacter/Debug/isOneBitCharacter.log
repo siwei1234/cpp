@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\isonebitcharacter\isonebitcharacter\test.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  isOneBitCharacter.vcxproj -> D:\cpp\isOneBitCharacter\Debug\isOneBitCharacter.exe
