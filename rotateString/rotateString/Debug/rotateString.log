@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\rotatestring\rotatestring\test.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\rotatestring\rotatestring\test.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  rotateString.vcxproj -> D:\cpp\rotateString\Debug\rotateString.exe
