@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\backspacecompare\backspacecompare\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\backspacecompare\backspacecompare\test.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  backspaceCompare.vcxproj -> D:\cpp\backspaceCompare\Debug\backspaceCompare.exe
