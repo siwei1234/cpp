@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\islongpressedname\islongpressedname\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\islongpressedname\islongpressedname\test.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  isLongPressedName.vcxproj -> D:\cpp\isLongPressedName\Debug\isLongPressedName.exe
