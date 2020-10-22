@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\cpp\partitionlabels\partitionlabels\test.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\partitionlabels\partitionlabels\test.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  partitionLabels.vcxproj -> D:\cpp\partitionLabels\Debug\partitionLabels.exe
