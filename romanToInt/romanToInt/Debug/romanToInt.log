@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\romantoint\romantoint\test.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  romanToInt.vcxproj -> D:\cpp\romanToInt\Debug\romanToInt.exe
