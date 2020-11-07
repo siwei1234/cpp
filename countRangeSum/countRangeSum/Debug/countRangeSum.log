@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\countrangesum\countrangesum\test.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  countRangeSum.vcxproj -> D:\cpp\countRangeSum\Debug\countRangeSum.exe
