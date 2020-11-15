@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "removeKdigits", "removeKdigits\removeKdigits.vcxproj", "{54020576-F4FE-4758-826B-08481DE5C03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Debug|x64.ActiveCfg = Debug|x64
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Debug|x64.Build.0 = Debug|x64
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Debug|x86.ActiveCfg = Debug|Win32
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Debug|x86.Build.0 = Debug|Win32
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Release|x64.ActiveCfg = Release|x64
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Release|x64.Build.0 = Release|x64
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Release|x86.ActiveCfg = Release|Win32
+		{54020576-F4FE-4758-826B-08481DE5C03F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BACFE81-FB72-44AE-9D8E-C2A405185170}
+	EndGlobalSection
+EndGlobal
