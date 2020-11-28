@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\relativesortarray\relativesortarray\test.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  relativeSortArray.vcxproj -> D:\cpp\relativeSortArray\Debug\relativeSortArray.exe
