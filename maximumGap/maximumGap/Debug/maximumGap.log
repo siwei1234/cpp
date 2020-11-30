@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\maximumgap\maximumgap\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  maximumGap.vcxproj -> D:\cpp\maximumGap\Debug\maximumGap.exe
