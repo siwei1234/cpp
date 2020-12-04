@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\countprimes\countprimes\test.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  countPrimes.vcxproj -> D:\cpp\countPrimes\Debug\countPrimes.exe
