@@ -1,0 +1,34 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+
+
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+
+class Solution {
+public:
+	int wiggleMaxLength(vector<int>& nums) {
+		int n = nums.size();
+		if (n < 2)
+			return n;
+		int up = 1, down = 1;
+		for (int i = 1; i < n; i++)
+		{
+			if (nums[i] > nums[i - 1])
+				up = down + 1;
+			else if (nums[i] < nums[i - 1])
+				down = up + 1;
+		}
+		return max(up, down);
+	}
+};
+
+
+int main()
+{
+	vector<int> nums = { 1,7,4,9,2,5 };
+	cout << Solution().wiggleMaxLength(nums) << endl;
+	return 0;
+}
