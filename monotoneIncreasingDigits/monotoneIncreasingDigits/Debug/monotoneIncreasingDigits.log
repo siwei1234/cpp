@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\cpp\monotoneincreasingdigits\monotoneincreasingdigits\test.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\monotoneincreasingdigits\monotoneincreasingdigits\test.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\monotoneincreasingdigits\monotoneincreasingdigits\test.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  monotoneIncreasingDigits.vcxproj -> D:\cpp\monotoneIncreasingDigits\Debug\monotoneIncreasingDigits.exe
