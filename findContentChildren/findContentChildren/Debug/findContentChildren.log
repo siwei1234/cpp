@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\cpp\findcontentchildren\findcontentchildren\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\findcontentchildren\findcontentchildren\test.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp\findcontentchildren\findcontentchildren\test.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  findContentChildren.vcxproj -> D:\cpp\findContentChildren\Debug\findContentChildren.exe
